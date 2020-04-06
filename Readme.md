@@ -1,6 +1,6 @@
 To run:
 
-```
+```bash
 roslaunch wall_following wall_following_v1.launch world:=triton_world.world
 rosrun wall_following wallFollowing.py (mode)
 ```
