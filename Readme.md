@@ -1,3 +1,5 @@
+📚 CSCI 473 Project 2
+
 To run:
 
 ```bash
