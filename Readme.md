@@ -1,4 +1,4 @@
-📚 CSCI 473 Project 2
+## 📚 CSCI 473 Project 2
 
 To run:
 
