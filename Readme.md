@@ -1,5 +1,7 @@
 ## 📚 CSCI 473 Project 2
 
+ROS package implementing a robot trained to follow a wall using Reinforcement Learning.
+
 To run:
 
 ```bash
